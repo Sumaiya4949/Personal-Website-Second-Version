@@ -1,0 +1,140 @@
+a{
+  color: #11999E;
+}
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Sarabun', sans-serif;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 600px;
+  bottom: 300px;
+}
+
+.upper-cloud {
+  position: absolute;
+  right : 500px;
+  top: 40px;
+}
+
+.top-container {
+  background-color: #BFFFF0;
+  position: relative;
+  padding-top: 100px;
+}
+
+h1 {
+  font-family: 'Dancing Script', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+}
+
+h2, h3 {
+  font-family: 'Fira Sans Condensed', sans-serif;
+}
+h2 {
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+h3{
+  color: #11999E;
+}
+
+.propic{
+  height: 300px;
+  width: 300px;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 80px auto;
+  text-align: left;
+  line-height: 2;
+  overflow: auto;
+}
+.computer-img{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.qa-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+p {
+  color: black;
+}
+
+.about-me{
+  width: 30%;
+  margin: 30px auto;
+}
+
+hr {
+  color: #9ADCFF;
+  border-style:none;
+  border-top-style:dotted;
+  margin: 80px auto;
+  width: 5%;
+  border-width: 5px;
+}
+
+.btn {
+  background: #34ced9;
+  background-image: -webkit-linear-gradient(top, #34ced9, #2980b9);
+  background-image: -moz-linear-gradient(top, #34ced9, #2980b9);
+  background-image: -ms-linear-gradient(top, #34ced9, #2980b9);
+  background-image: -o-linear-gradient(top, #34ced9, #2980b9);
+  background-image: linear-gradient(to bottom, #34ced9, #2980b9);
+  -webkit-border-radius: 9;
+  -moz-border-radius: 9;
+  border-radius: 9px;
+  font-family: 'Sarabun', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 7px 20px 10px 20px;
+  text-decoration: none;
+  margin: 100px auto;
+}
+
+.btn:hover {
+  background: #3092cf;
+  background-image: -webkit-linear-gradient(top, #3092cf, #3498db);
+  background-image: -moz-linear-gradient(top, #3092cf, #3498db);
+  background-image: -ms-linear-gradient(top, #3092cf, #3498db);
+  background-image: -o-linear-gradient(top, #3092cf, #3498db);
+  background-image: linear-gradient(to bottom, #3092cf, #3498db);
+  text-decoration: none;
+}
+
+.contact-me{
+  margin: 50px auto;
+}
+
+.contact-text{
+  margin: 50px auto;
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+  height:180px;
+  margin-top: 100px;
+}
+
+.footer-link{
+  margin: 30px 20px;
+  margin-top: 50px;
+  display: inline-block;
+  color: #11999E;
+  text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6;
+  font-family: 'Sarabun', sans-serif;
+}
+.copy-right{
+  color: #EAF6F6;
+}
